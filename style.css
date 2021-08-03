@@ -1,6 +1,6 @@
 .main{
     height: 900px;
-    background-image: linear-gradient(rgba(186, 219, 124, 0.5),rgba(223, 220, 92, 0.5)), url(./img/WhatsApp\ Image\ 2021-08-02\ at\ 4.30.34\ PM.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(./img/WhatsApp\ Image\ 2021-08-02\ at\ 4.30.34\ PM.jpeg);
     background-position:top;
     background-repeat: no-repeat;
     background-size: cover;
